@@ -11,7 +11,7 @@ My laptop is a bit of a grandpa, so 20 epochs training took me an hour's time. H
 If you have the resources or your laptop is not a grandpa like mine, a training of 100 epochs would lead to satisfactory results for you. :) 
 
 
-Test Image:
+Initial Image:
 ![initial test image](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/test/test_image.jpeg)
 
 
