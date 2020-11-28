@@ -12,7 +12,7 @@ If you have the resources or your laptop is not a grandpa like mine, a training 
 
 
 Test Image:
-![test image](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/test/test_image.jpeg)
+![initial test image](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/test/test_image.jpeg)
 
 
 
