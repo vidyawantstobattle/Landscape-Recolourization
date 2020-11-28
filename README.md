@@ -15,9 +15,12 @@ Test Image:
 ![test image](https://github.com/vidyawantstobattle/Landscape-Recolourization/tree/main/test)
 
 
+
 After 10 epochs:
-![test image](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/results/result(10%20epochs).png)
+![after 10 epochs](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/results/result(10%20epochs).png)
+
+
 
 After 20 epochs:
-![test image](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/results/result(20%20epochs).png)
+![after 20 epochs](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/results/result(20%20epochs).png)
 
