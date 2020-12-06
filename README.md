@@ -21,5 +21,5 @@ rgb2lab conversion of images is done. theory is explained in the notebook 'Image
 <br/>After 20 epochs: <br/>
 ![after 20 epochs](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/results/result(20%20epochs).png)
 
-<br/> After 300 epochs: <br/ >
-![after 300 epochs](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/results/result(20%20epochs).png)
+<br/>After 300 epochs: <br />
+![after 300 epochs](https://github.com/vidyawantstobattle/Landscape-Recolourization/blob/main/results/result(300%20epochs).png)
